@@ -1,5 +1,6 @@
 - HI I'm Chris,a software developer based in Nairobi kenya
--javascript.python.kotlin. 
+-softwarecraftsman 
+
 - wachiraethan21@gmail.com
 
 <!---

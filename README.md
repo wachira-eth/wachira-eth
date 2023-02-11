@@ -1,4 +1,6 @@
-- HI I'm Chris,a CS STUDENT/SOFTWAREDEV/based in Nairobi kenya
+- HI I'm Chris,a CybersecConnoisseur/MERN developer
+- javasript/python/WEB3
+- based in Nairobi kenya
 
 
 - wachiraethan21@gmail.com

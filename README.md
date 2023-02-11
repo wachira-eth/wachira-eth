@@ -1,6 +1,8 @@
-- HI I'm Chris,a CybersecConnoisseur/MERN developer
-- javasript/python/WEB3
+- HI I'm Chris 
+-{ cybersec
+-WEB3/pyhthon&javascript}
 - based in Nairobi kenya
+
 
 
 - wachiraethan21@gmail.com

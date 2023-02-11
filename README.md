@@ -1,5 +1,5 @@
-- HI I'm Chris,a software developer based in Nairobi kenya
--softwarecraftsman 
+- HI I'm Chris,a CS STUDENT/SOFTWAREDEV/based in Nairobi kenya
+
 
 - wachiraethan21@gmail.com
 

@@ -1,7 +1,6 @@
 - HI I'm Chris 
--{ cybersec
--WEB3/pyhthon&javascript}
-- based in Nairobi kenya
+-        softwaredev
+-               based in Nairobi kenya
 
 
 
